@@ -1,0 +1,3 @@
+package ContractHandler.Messages
+
+trait ContractHandlerMessages
